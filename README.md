@@ -24,7 +24,7 @@ is described in the [usage instructions](USAGE.md).
 
 If you wish to refer to the paper, it can be cited as follows:
 ```
-@inproceedings{schroder-etal-2022-revisiting,
+@inproceedings{schroeder2022-revisiting,
     title = "Revisiting Uncertainty-based Query Strategies for Active Learning with Transformers",
     author = {Schr{\"o}der, Christopher and Niekler, Andreas and Potthast, Martin},
     booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
